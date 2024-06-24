@@ -1,0 +1,41 @@
+                                        ******TRABAJO PRACTICO N°1 ******
+                                        
+############## Su desafío es construir este perfil de enlaces sociales y lograr que se parezca lo más posible al diseño. #####################
+
+# Fecha de entrega lunes 24 hasta hora 00
+# El proyecto debe estar subido en GitHub y a Netlify
+# El dia de la fecha de entrega del proyecto deben pasarme via whatsApp, el link de su repo de GitHub y el
+  link del proyecto deployado en Netlify.
+# Deben compartirlo en whatsApp, y distntas redes sociales para que sea publico.
+# En la carpeta design esta el modelo de cómo debe quedar el trabajo, tienen la version para celular y para
+  la version desktop.
+# En lo estructural debe quedar igual, en la parte visual(colores, efectos, fuentes) queda a su creatividad.
+# En la carpeta img deben poner su imagen de perfil.
+
+
+Primera Parte:
+
+1- Armar la estructura basica de html.
+2- Enlazar los archivos html y css.
+3- Preparar un contenedor general que luego nos permita manipular los
+   elementos que contenga adentro.
+4- Preparar otro elementos dentro del elemento principal, este nuevo
+   elemento debe contener una imagen.
+5- Abajo de la imagen estructurar un sub elemento que contenga un
+   titulo y dos parrafos.
+6- En total tiene que haber dos elementos dentro del elemento general.
+7- El segundo elemento debe contener 5 enlaces y deben estar enlazados con sus redes sociales.
+    📌 Facebook
+    📌 Instagram
+    📌 x
+    📌 Pagina web personal
+    📌 GitHub
+    📌 TikTok
+    📌 LinkedIn
+    📌 Email
+    📌 Otras
+
+
+    ❗❗❗❗❗❗ ESTO ES UN TRABAJO PRACTICO - CASO DE FALLAR, TENDRAN UNA SEGUNDA OPORTUNIDAD, 
+    ESA SEGUNDA OPORTUNIDAD SERÁ MÁS COMPLEJA. CASO DE FALLAR ESA SEGUNDA OPORTUNIDAD 
+                            ❌RECURSAN❌ ❗❗❗❗❗❗
